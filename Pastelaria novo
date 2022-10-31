@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="style.css">
 
 </head>
-
+<div>
        <font color="purple"> <p style="font-size: 40px; text-align:center"> Pastelaria kk’s </h2> </font>
        <font color="gold"   style="text-align:center"> 
  <p style="font-size: 40px; text-align:center"> <img src="gg2.jpg">
@@ -17,18 +17,19 @@
 
  <p style="text-align:center">Temos trabalhando conosco os melhores pasteleiros da Fazenda Rio Grande, para trazer os melhores resultados. </em>
  </p>
-
-    </html>
+</div>
+    
     <font color="white"   style="font-size: 20px;" "text-align:center"> 
-
-        <ul>
+<div>
+    <p style="text-align:center"> NÓS TEMOS CONOSCO APENAS OS MELHORES:
+<ul>
     <li class="itens"> melhores preços </li>
     <li class="itens"> melhores pasteleiros  </li>
     <li class="itens"> melhores sabores  </li>
     <li class="itens"> melhor pastelaria  </li>
 
-
-
+</ul>
+</div>
 
 
 
@@ -37,3 +38,4 @@
 
 
 <body bgcolor="gray"></body>
+</html>
