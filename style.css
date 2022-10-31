@@ -9,3 +9,11 @@ body{
 h2{
    color: #f34312;
 }
+
+.itens2 {
+    font-style: italic;
+}
+
+.temos {
+    background:white;
+}
