@@ -2,32 +2,38 @@
 <html lang="pt-br">
     
 <head>
+
         <meta charset="UTF-8">
         <title>Pastelaria kk’s</title> </p>
         <link rel="stylesheet" href="style.css">
 
 </head>
 <div>
+    <bgcolor="white">
        <font color="purple"> <p style="font-size: 40px; text-align:center"> Pastelaria kk’s </h2> </font>
        <font color="gold"   style="text-align:center"> 
- <p style="font-size: 40px; text-align:center"> <img src="gg2.jpg">
+ <p style="font-size: 40px; text-align:center"> 
+     <img src="gg2.jpg">
+
  <p style="text-align:center"> na rua Buenos Aires 1215, a <strong> pastelaria kk’s</strong> faz pastel de todos os tipos, doces, salgados, rodízio e tudo que desejar relacionado a esse assunto que é de especialidade da casa, fundada no ano de 2020, Já se adaptou a grandes problemas como o covid-19 e também leva seu produto para a casa de qualquer um. </p>
 
  <em> <p style="font-size: 20px; text-align:center"> nossa missão é: <strong>“trazer cada vez mais o delicioso sabor do pastel para sua casa a um preço acessível. “</strong>.</em></p>
 
  <p style="text-align:center">Temos trabalhando conosco os melhores pasteleiros da Fazenda Rio Grande, para trazer os melhores resultados. </em>
  </p>
+</bgcolor>
 </div>
     
     <font color="white"   style="font-size: 20px;" "text-align:center"> 
 <div>
+    <body bgcolor="gray">
     <p style="text-align:center"> NÓS TEMOS CONOSCO APENAS OS MELHORES:
 <ul>
     <li class="itens"> melhores preços </li>
     <li class="itens"> melhores pasteleiros  </li>
     <li class="itens"> melhores sabores  </li>
     <li class="itens"> melhor pastelaria  </li>
-
+    </body>
 </ul>
 </div>
 
@@ -37,5 +43,5 @@
 
 
 
-<body bgcolor="gray"></body>
 </html>
+
